@@ -4,8 +4,8 @@
 💞️ I’m looking to collaborate on open-source projects and internships
 📫 How to reach me:
     📧 dnyaneshwariwaikar30@gmail.com
-    🔗 LinkedIn
-    🐙 GitHub
+    🔗 LinkedIn-https://www.linkedin.com/in/dnyaneshwari-w-18987b22b/
+    🐙 GitHub-https://github.com/dnyaneshwariwaikar30
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love turning ideas into code and enjoy solving real-world problems through tech!
 <!---
